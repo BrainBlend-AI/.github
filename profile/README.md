@@ -8,5 +8,5 @@ Whether you're looking to automate processes, enhance customer experiences, or e
 
 ### Get Connected!
 Feel free to get connected to the CEO and CTO of BrainBlend AI and reach out to us there as well!
-- [Younes Baghor, CEO](https://www.linkedin.com/in/webwizart)
-- [Kenny Vaneetvelde, CTO & Lead Maintainer of Atomic Agents](https://www.linkedin.com/in/kennyvaneetvelde/)
+- [Younes Baghor, Cofounder & CEO](https://www.linkedin.com/in/webwizart)
+- [Kenny Vaneetvelde, Cofounder & CTO - Lead Maintainer of Atomic Agents](https://www.linkedin.com/in/kennyvaneetvelde/)
